@@ -36,3 +36,9 @@
 
 ```bash
 docker compose up --build -d
+
+
+
+Полная инструкция развертывания и проверки:
+
+- [`docs/DEPLOY_AND_RUN.md`](docs/DEPLOY_AND_RUN.md)
